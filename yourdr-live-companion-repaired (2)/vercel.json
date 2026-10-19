@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/home-portal",
+      "destination": "/api/home-portal"
+    },
+    {
+      "source": "/home-portal/(.*)",
+      "destination": "/api/home-portal"
+    },
+    {
+      "source": "/((?!api/|assets/|favicon|.*\\..*).*)",
+      "destination": "/index.html"
+    }
+  ]
+}

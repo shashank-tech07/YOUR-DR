@@ -1,0 +1,6 @@
+{
+  "name": "YourDr. Live Companion & Side View Workspace",
+  "description": "Connected telehealth clinical companion and side-by-side workspace for the YourDr. Vercel healthcare platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
